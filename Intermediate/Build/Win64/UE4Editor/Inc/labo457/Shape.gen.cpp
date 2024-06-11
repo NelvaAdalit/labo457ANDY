@@ -85,10 +85,10 @@ void EmptyLinkFunctionForGeneratedCodeShape() {}
 #endif
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShape_Statics::NewProp_Root_MetaData[] = {
-		{ "Comment", "///para crear una malla \n//a?adido definicion de objetos -----------\n" },
+		{ "Comment", "///para crear una malla \n//a?adido definicion de objeto\n" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Shape.h" },
-		{ "ToolTip", "para crear una malla\na?adido definicion de objetos -----------" },
+		{ "ToolTip", "para crear una malla\na?adido definicion de objeto" },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AShape_Statics::NewProp_Root = { "Root", nullptr, (EPropertyFlags)0x0010000000080008, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AShape, Root), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AShape_Statics::NewProp_Root_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AShape_Statics::NewProp_Root_MetaData)) };
@@ -123,9 +123,9 @@ void EmptyLinkFunctionForGeneratedCodeShape() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AShape_Statics::NewProp_direccion_MetaData[] = {
 		{ "Category", "nave enemiga" },
-		{ "Comment", "//\n//=======pantalla\n" },
+		{ "Comment", "//\n//pantalla\n" },
 		{ "ModuleRelativePath", "Shape.h" },
-		{ "ToolTip", "=======pantalla" },
+		{ "ToolTip", "pantalla" },
 	};
 #endif
 	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UClass_AShape_Statics::NewProp_direccion = { "direccion", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AShape, direccion), METADATA_PARAMS(Z_Construct_UClass_AShape_Statics::NewProp_direccion_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AShape_Statics::NewProp_direccion_MetaData)) };
@@ -203,7 +203,7 @@ void EmptyLinkFunctionForGeneratedCodeShape() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AShape, 1612038926);
+	IMPLEMENT_CLASS(AShape, 1329278675);
 	template<> LABO457_API UClass* StaticClass<AShape>()
 	{
 		return AShape::StaticClass();
