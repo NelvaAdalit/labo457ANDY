@@ -1,0 +1,20 @@
+D:\AVANZADA\labo457\Intermediate\Build\Win64\UE4Editor\Development\labo457\Definitions.labo457.h
+D:\AVANZADA\labo457\Source\labo457\BoxColider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBox.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBox.generated.h
+D:\AVANZADA\labo457\Intermediate\Build\Win64\UE4Editor\Inc\labo457\BoxColider.generated.h
+D:\AVANZADA\labo457\Source\labo457\AsignarMalla.h
+D:\AVANZADA\labo457\Intermediate\Build\Win64\UE4Editor\Inc\labo457\AsignarMalla.generated.h
+D:\AVANZADA\labo457\Source\labo457\Shape.h
+D:\AVANZADA\labo457\Intermediate\Build\Win64\UE4Editor\Inc\labo457\Shape.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

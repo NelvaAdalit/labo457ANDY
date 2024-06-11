@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\labo457.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A418BAF6-A74D-417D-A4B7-1A13E6A88B3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\labo457.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\labo457Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CB1E7EC6-06D1-4E2B-A34E-BC1F2C29613A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\labo457">
+      <UniqueIdentifier>{4551D6FF-125A-436F-B728-A84D3012CB8B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\labo457\AsignarMalla.cpp">
+      <Filter>Source\labo457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labo457\AsignarMalla.h">
+      <Filter>Source\labo457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\labo457\BoxColider.cpp">
+      <Filter>Source\labo457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labo457\BoxColider.h">
+      <Filter>Source\labo457</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\labo457\labo457.Build.cs">
+      <Filter>Source\labo457</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\labo457\labo457.cpp">
+      <Filter>Source\labo457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labo457\labo457.h">
+      <Filter>Source\labo457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\labo457\labo457GameMode.cpp">
+      <Filter>Source\labo457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labo457\labo457GameMode.h">
+      <Filter>Source\labo457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\labo457\labo457Pawn.cpp">
+      <Filter>Source\labo457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labo457\labo457Pawn.h">
+      <Filter>Source\labo457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\labo457\labo457Projectile.cpp">
+      <Filter>Source\labo457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labo457\labo457Projectile.h">
+      <Filter>Source\labo457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\labo457\Shape.cpp">
+      <Filter>Source\labo457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\labo457\Shape.h">
+      <Filter>Source\labo457</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

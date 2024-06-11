@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "labo457",
+			"Path": "D:\\AVANZADA\\labo457\\Source\\labo457.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "labo457Editor",
+			"Path": "D:\\AVANZADA\\labo457\\Source\\labo457Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
